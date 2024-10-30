@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Highslide4WP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-08-31 23:58+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: mg12 <wuzhao.mail@gmail.com>\n"
+"Language-Team: NeoEase <http://www.neoease.com/plugins/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: highslide4wp.php:40
+msgid "Highslide Image"
+msgstr "Highslide 图片"
+
+#: highslide4wp.php:44
+msgid "Thumbnail URL: (required)"
+msgstr "简缩图: (必填)"
+
+#: highslide4wp.php:48
+msgid "Fullsize URL: (required)"
+msgstr "全尺寸图: (必填)"
+
+#: highslide4wp.php:52
+msgid "Description:"
+msgstr "图片描述: "
+
+#: highslide4wp.php:56
+msgid "Insert image"
+msgstr "插入图片"
+
+#: highslide4wp.php:78
+msgid "Emoticons"
+msgstr "表情图标"
+
+#: toys.php:26
+msgid "Close"
+msgstr "关闭"
+

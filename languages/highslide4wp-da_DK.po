@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Highslide4WP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-08-31 23:58+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Soeren Eskildsen <s.benzon@gmail.com>\n"
+"Language-Team:  <wuzhao.mail@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: highslide4wp.php:40
+msgid "Highslide Image"
+msgstr "Highslide Billede"
+
+#: highslide4wp.php:44
+msgid "Thumbnail URL: (required)"
+msgstr "Thumbnail URL: (p&aring;kr&aelig;vet)"
+
+#: highslide4wp.php:48
+msgid "Fullsize URL: (required)"
+msgstr "Komplet URL: (p&aring;kr&aelig;vet)"
+
+#: highslide4wp.php:52
+msgid "Description:"
+msgstr "Beskrivelse:"
+
+#: highslide4wp.php:56
+msgid "Insert image"
+msgstr "Inds&aelig;t billede"
+
+#: highslide4wp.php:78
+msgid "Emoticons"
+msgstr "Smileys"
+
+#: toys.php:26
+msgid "Close"
+msgstr "Luk"
+
